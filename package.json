@@ -1,0 +1,19 @@
+{
+  "name": "Microservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ioredis": "^4.14.1",
+    "moleculer": "^0.13.11",
+    "moleculer-repl": "^0.6.1",
+    "nats": "^1.3.2",
+    "redlock": "^4.0.0"
+  }
+}
